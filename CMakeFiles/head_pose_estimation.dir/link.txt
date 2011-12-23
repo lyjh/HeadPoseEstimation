@@ -1,0 +1,1 @@
+/usr/bin/c++   -O3 -DNDEBUG   CMakeFiles/head_pose_estimation.dir/CRForestEstimator.cpp.o CMakeFiles/head_pose_estimation.dir/CRTree.cpp.o CMakeFiles/head_pose_estimation.dir/main.cpp.o  -o head_pose_estimation -rdynamic -lopencv_core -lopencv_highgui -lopencv_imgproc 
